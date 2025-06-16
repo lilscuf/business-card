@@ -16,8 +16,8 @@
 
 ## 🛠 Технологии
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - [Google Fonts](https://fonts.google.com/) — шрифт Roboto
 
 ---
